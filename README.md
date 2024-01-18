@@ -31,4 +31,4 @@ This project contains the files needed to get you started with Homework 1.
 
 3. Type "git push"
 
-4. You can verify that your program is wroking properly with predetermined inputs on GitHub Actions.
+4. You can verify that your program is working properly with predetermined inputs on GitHub Actions.
