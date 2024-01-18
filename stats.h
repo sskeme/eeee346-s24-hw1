@@ -1,11 +1,3 @@
-/*
- * File:        stats.h
- * Author:
- * Date:
- *
- * Description: Function prototypes of simple statistical functions
- */
-
 // Use pre-compiler to ensure that header file function declarations
 // are not included multiple times.
 #ifndef STATS_H__
